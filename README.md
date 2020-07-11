@@ -10,4 +10,5 @@ The complexity of the game builds up over time. This is affected by the playerâ€
 
 ---
 Python v3.6.9
+
 Written and tested on Linux [Ubuntu](https://ubuntu.com/) 18.04.4 LTS
