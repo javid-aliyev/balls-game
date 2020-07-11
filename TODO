@@ -1,0 +1,10 @@
+$TASKS
+#add:
+	-- * write tests for each module
+	-- * setuptools
+	-- * pyinstaller builds
+	-- * (virtualenv)
+
+$WORKING-AT-THE-MOMENT
+
+$DONE
